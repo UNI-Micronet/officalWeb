@@ -457,7 +457,7 @@ aside.aside-left {
   color: #fff;
 }
 .text-white, .text-white *, .primary-color-white .text-primary, .primary-color-white .text-primary * {
-  color: #d9f80b !important;
+  color: #fff !important;
 }
 .text-primary, .text-primary *, .primary-color-primary .text-primary, .primary-color-primary .text-primary * {
   color: #49BF4C !important;
